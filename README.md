@@ -7,4 +7,5 @@
 - [DEF CON Safe Mode Car Hacking Village - Marcelo Sacchetin - ChupaCarBrah](https://www.youtube.com/watch?v=-rwXSVT7kNo)
 - [Car Hacking 101 - Alan Mond, LevelUp 2017](https://www.youtube.com/watch?v=P-mzo2X47sg)
 - [Car Hacking CanBus Simulator](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+- [Car Hacking 101: Tools of the Trade](https://makezine.com/2016/04/08/car-hacking-tools-trade/)
 - [Car Hacking CanBus Simulator Part 2](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)

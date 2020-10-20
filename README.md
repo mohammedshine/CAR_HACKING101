@@ -6,4 +6,4 @@
 - [Car Infotainment Hacking Methodology, Attack Surf - Jay Turla](https://www.youtube.com/watch?v=F0mYkI2FJ_4)
 - [DEF CON Safe Mode Car Hacking Village - Marcelo Sacchetin - ChupaCarBrah](https://www.youtube.com/watch?v=-rwXSVT7kNo)
 - [Car Hacking 101 - Alan Mond, LevelUp 2017](https://www.youtube.com/watch?v=P-mzo2X47sg)
-
+- [Car Hacking CanBus Simulator](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)

@@ -11,3 +11,4 @@
 - [Car Hacking CanBus Simulator Part 2](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-ee998570758)
 - [How to hack a car — a quick crash-course](https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/)
 - [Jmaxxz - Your Car is My Car - DEF CON 27 Conference](https://www.youtube.com/watch?v=w8SG2V3n4-U)
+- [DEF CON 25 Car Hacking Village](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA42Iq_PjgbnDhmptBiWQgx)

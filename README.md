@@ -1,4 +1,5 @@
 # CAR_HACKING101
+- [Car Hacker's Handbook](https://docs.alexomar.com/biblioteca/thecarhackershandbook.pdf)
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html)
 - [How to Get Started with Car Hacking](https://www.youtube.com/watch?v=HBv3gQUForQ&list=LLI6dstYLua8ph4LBUaw5r_w&index=491&t=0s)
 - [A Crash Course in Automotive Security](https://speakerdeck.com/utkanos/dont-be-a-dummy-a-crash-course-in-automotive-security-ekoparty-2016?slide=16)

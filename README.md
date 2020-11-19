@@ -17,3 +17,5 @@
 - [Mintynet](https://www.mintynet.com/)
 - [LevelUp 0x04 - Car Hacking: A College Student’s Perspective
 ](https://www.youtube.com/watch?v=56LB7pTyax4)
+- [Car Hacking Fun
+](https://www.youtube.com/watch?v=mff_Eema1U0)

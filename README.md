@@ -19,3 +19,8 @@
 ](https://www.youtube.com/watch?v=56LB7pTyax4)
 - [Car Hacking Fun
 ](https://www.youtube.com/watch?v=mff_Eema1U0)
+- [h@cktivitycon 2020: From an 'IVI in a box' to a 'CAR in a box'
+](https://www.youtube.com/watch?v=e_7PklFoJe8)
+- [From an 'IVI in a box' to a 'CAR in a box' by: Ian Tabor @mintynet
+](https://www.youtube.com/watch?v=4Ptk9ikfpAQ)
+- [ASRG](https://www.youtube.com/channel/UCc31bhMPow5KS9V5uLtaIrA)

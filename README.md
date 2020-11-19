@@ -24,3 +24,5 @@
 - [From an 'IVI in a box' to a 'CAR in a box' by: Ian Tabor @mintynet
 ](https://www.youtube.com/watch?v=4Ptk9ikfpAQ)
 - [ASRG](https://www.youtube.com/channel/UCc31bhMPow5KS9V5uLtaIrA)
+- [Automotive product security from an attacker’s perspective
+](https://www.youtube.com/watch?v=2bAD8snstvA&feature=youtu.be)

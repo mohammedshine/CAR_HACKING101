@@ -14,3 +14,6 @@
 - [How to hack a car — a quick crash-course](https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec/)
 - [Jmaxxz - Your Car is My Car - DEF CON 27 Conference](https://www.youtube.com/watch?v=w8SG2V3n4-U)
 - [DEF CON 25 Car Hacking Village](https://www.youtube.com/playlist?list=PL9fPq3eQfaaA42Iq_PjgbnDhmptBiWQgx)
+- [Mintynet](https://www.mintynet.com/)
+- [LevelUp 0x04 - Car Hacking: A College Student’s Perspective
+](https://www.youtube.com/watch?v=56LB7pTyax4)

@@ -28,3 +28,5 @@
 - [Automotive product security from an attacker’s perspective
 ](https://www.youtube.com/watch?v=2bAD8snstvA&feature=youtu.be)
 - [AutoSec](http://www.autosec.org/publications.html)
+- [A Vulnerability in Modern Automotive
+Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)

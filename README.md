@@ -30,3 +30,4 @@
 - [AutoSec](http://www.autosec.org/publications.html)
 - [A Vulnerability in Modern Automotive
 Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
+- [CTF-CAR](https://github.com/KartheekLade/Network-of-Nodes)

@@ -38,3 +38,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Car hacking village - Getting started](https://www.carhackingvillage.com/getting-started)
 - [Basics of car hacking](https://www.carsecurityquarter.org/post/basics-of-car-hacking)
 - [Automotive Hacking](https://www.slideshare.net/gauravhtandon1/automotive-hacking)
+- [Automatic Automotive Hacking](https://slideplayer.com/slide/13735182)

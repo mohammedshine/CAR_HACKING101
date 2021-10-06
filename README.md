@@ -37,3 +37,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Hacking all cars Tesla](https://www.anquanke.com/post/id/218396)
 - [Car hacking village - Getting started](https://www.carhackingvillage.com/getting-started)
 - [Basics of car hacking](https://www.carsecurityquarter.org/post/basics-of-car-hacking)
+- [Automotive Hacking](https://www.slideshare.net/gauravhtandon1/automotive-hacking)

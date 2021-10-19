@@ -39,3 +39,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Basics of car hacking](https://www.carsecurityquarter.org/post/basics-of-car-hacking)
 - [Automotive Hacking](https://www.slideshare.net/gauravhtandon1/automotive-hacking)
 - [Automatic Automotive Hacking](https://slideplayer.com/slide/13735182)
+- [Podcast](https://securityboulevard.com/2021/08/the-hacker-mind-podcast-car-hacking-0x05/)

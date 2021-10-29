@@ -40,3 +40,5 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Automotive Hacking](https://www.slideshare.net/gauravhtandon1/automotive-hacking)
 - [Automatic Automotive Hacking](https://slideplayer.com/slide/13735182)
 - [Podcast](https://securityboulevard.com/2021/08/the-hacker-mind-podcast-car-hacking-0x05/)
+- [Tesla Car Hacked Remotely From Drone via Zero-Click Exploit](https://www.youtube.com/watch?v=krSj81thN0w)
+- [Hacking Automobiles](https://www.youtube.com/playlist?list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6)

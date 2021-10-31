@@ -44,3 +44,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Hacking Automobiles](https://www.youtube.com/playlist?list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6)
 - [Fuzzing CAN / CAN FD ECU's and Network using Vehicle Spy](https://www.youtube.com/watch?v=_RB4XyfC2aI&ab_channel=IntrepidControlSystems)
 - [Introduction to Defensics](http://www.gcomtw.com/mailshot/Synopsys/1612%20News/FY16%20SIG%20DS%20Letter%20Defensics-1.2.pdf)
+

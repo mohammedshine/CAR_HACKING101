@@ -42,3 +42,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Podcast](https://securityboulevard.com/2021/08/the-hacker-mind-podcast-car-hacking-0x05/)
 - [Tesla Car Hacked Remotely From Drone via Zero-Click Exploit](https://www.youtube.com/watch?v=krSj81thN0w)
 - [Hacking Automobiles](https://www.youtube.com/playlist?list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6)
+- [Fuzzing CAN / CAN FD ECU's and Network using Vehicle Spy](https://www.youtube.com/watch?v=_RB4XyfC2aI&ab_channel=IntrepidControlSystems)

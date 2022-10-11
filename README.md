@@ -47,3 +47,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Rolling PWN](https://rollingpwn.github.io/rolling-pwn/)
 - [Tesla Infortainment](https://twitter.com/samwcyo/status/1529937259067326470)
 - [TikTok Challenge KIA Hack 😂](https://www.youtube.com/watch?v=bTeVgfPM0Xw)
+- [CloudCar](https://cloudcar.canbushack.com/simulator)

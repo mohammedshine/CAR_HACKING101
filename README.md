@@ -53,4 +53,5 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Tencent Keen Security Lab: Experimental Security Assessment on Lexus Cars](https://keenlab.tencent.com/en/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/)
 - [New Vehicle Security Research by KeenLab: Experimental Security Assessment of BMW Cars](https://keenlab.tencent.com/en/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/)
 - [How I Hacked  my car-Part 1 by greenluigi1] (https://programmingwithstyle.com/posts/howihackedmycar/)
-- [How I Hacked my car-part 2 by greenluidi1] (https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+
+[How I hacked my car-part 3 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart3/)

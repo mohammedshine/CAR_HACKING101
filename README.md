@@ -35,7 +35,6 @@
 Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vulnerability-in-Modern-Automotive-Standards-and-How-We-Exploited-It.pdf)
 - [CTF-CAR](https://github.com/KartheekLade/Network-of-Nodes)
 - [Nissan Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root)
-- https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html
 - [Hacking all cars Tesla](https://www.anquanke.com/post/id/218396)
 - [Car hacking village - Getting started](https://www.carhackingvillage.com/getting-started)
 - [Basics of car hacking](https://www.carsecurityquarter.org/post/basics-of-car-hacking)
@@ -53,3 +52,8 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Tencent Security Keen Lab: Experimental Security Assessment of Mercedes-Benz Cars](https://keenlab.tencent.com/en/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/)
 - [Tencent Keen Security Lab: Experimental Security Assessment on Lexus Cars](https://keenlab.tencent.com/en/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/)
 - [New Vehicle Security Research by KeenLab: Experimental Security Assessment of BMW Cars](https://keenlab.tencent.com/en/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/)
+
+
+
+
+- [Reverse Engineering of Nitro OBD](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html)

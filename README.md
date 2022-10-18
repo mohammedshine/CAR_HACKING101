@@ -50,3 +50,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [TikTok Challenge KIA Hack 😂](https://www.youtube.com/watch?v=bTeVgfPM0Xw)
 - [CloudCar](https://cloudcar.canbushack.com/simulator)
 - [Tencent Security Keen Lab: Experimental Security Assessment of Mercedes-Benz Cars](https://keenlab.tencent.com/en/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/)
+- [Tencent Keen Security Lab: Experimental Security Assessment on Lexus Cars](https://keenlab.tencent.com/en/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/)

@@ -55,3 +55,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [How I Hacked my car-part 1 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycar/)
 - [How I Hacked my car-part 2 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 - [How I Hacked my car-part 3 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+- [Remote Exploitation of Honda Cars by Mohammed Shine](https://www.youtube.com/watch?v=y4Uzm-CTa0I)

@@ -52,8 +52,8 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Tencent Security Keen Lab: Experimental Security Assessment of Mercedes-Benz Cars](https://keenlab.tencent.com/en/2021/05/12/Tencent-Security-Keen-Lab-Experimental-Security-Assessment-on-Mercedes-Benz-Cars/)
 - [Tencent Keen Security Lab: Experimental Security Assessment on Lexus Cars](https://keenlab.tencent.com/en/2020/03/30/Tencent-Keen-Security-Lab-Experimental-Security-Assessment-on-Lexus-Cars/)
 - [New Vehicle Security Research by KeenLab: Experimental Security Assessment of BMW Cars](https://keenlab.tencent.com/en/2018/05/22/New-CarHacking-Research-by-KeenLab-Experimental-Security-Assessment-of-BMW-Cars/)
-
-
-
-
+- [How I Hacked my car-part 1 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycar/)
+- [How I Hacked my car-part 2 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+- [How I Hacked my car-part 3 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+- [Remote Exploitation of Honda Cars by Mohammed Shine](https://www.youtube.com/watch?v=y4Uzm-CTa0I)
 - [Reverse Engineering of Nitro OBD](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html)

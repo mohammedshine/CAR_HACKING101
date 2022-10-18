@@ -56,3 +56,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [How I Hacked my car-part 2 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 - [How I Hacked my car-part 3 by greenluigi1](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
 - [Remote Exploitation of Honda Cars by Mohammed Shine](https://www.youtube.com/watch?v=y4Uzm-CTa0I)
+- [Reverse Engineering of Nitro OBD](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html)

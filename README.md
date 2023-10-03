@@ -58,5 +58,5 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Remote Exploitation of Honda Cars by Mohammed Shine](https://www.youtube.com/watch?v=y4Uzm-CTa0I)
 - [Reverse Engineering of Nitro OBD](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html)
 - [CAN-Injection](https://www.youtube.com/watch?v=XZK5TvnJjXg)
+- [USB Fuzzing](https://www.youtube.com/watch?v=W_vQ5s1bB30&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=3)
 - [Exploiting Wireless Side Channels in EV Charging](https://www.youtube.com/watch?v=AM4IRwWokwY&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH)
-- 

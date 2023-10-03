@@ -58,3 +58,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Remote Exploitation of Honda Cars by Mohammed Shine](https://www.youtube.com/watch?v=y4Uzm-CTa0I)
 - [Reverse Engineering of Nitro OBD](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html)
 - [CAN-Injection](https://www.youtube.com/watch?v=XZK5TvnJjXg)
+- [CAN-DoS](https://www.youtube.com/watch?v=okrzUNDLgbo&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=4)

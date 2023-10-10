@@ -61,3 +61,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [CAN-DoS](https://www.youtube.com/watch?v=okrzUNDLgbo&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=4)
 - [USB Fuzzing](https://www.youtube.com/watch?v=W_vQ5s1bB30&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=3)
 - [Exploiting Wireless Side Channels in EV Charging](https://www.youtube.com/watch?v=AM4IRwWokwY&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH)
+- [Car Hacking (A Reading List)](https://www.linkedin.com/pulse/car-hacking-reading-list-hristo-bojinov)

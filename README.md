@@ -61,4 +61,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [CAN-DoS](https://www.youtube.com/watch?v=okrzUNDLgbo&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=4)
 - [USB Fuzzing](https://www.youtube.com/watch?v=W_vQ5s1bB30&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH&index=3)
 - [Exploiting Wireless Side Channels in EV Charging](https://www.youtube.com/watch?v=AM4IRwWokwY&list=PL9fPq3eQfaaDvq1LfuzwOF2p4PZFdKLeH)
-- [Car Hacking, the Next Frontier of Cybersecurity](https://www.tanium.com/blog/car-hacking-the-next-frontier-of-cybersecurity/)
+- [CAN bus and car hacking getting started resources](https://www.reddit.com/r/CarHacking/comments/ltbrzk/can_bus_and_car_hacking_getting_started_resources/)

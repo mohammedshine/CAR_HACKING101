@@ -1,5 +1,6 @@
 # CAR_HACKING101
 [<img src="https://imgur.com/nqGENn2.png" height="80" />](https://github.com/mohammedshine/CAR_HACKING101/blob/master/PDF/thecarhackershandbook.pdf)
+- [The Need for Cyber Security in Connected Cars ] https://medium.com/@hackersera/the-need-for-cyber-security-in-connected-cars-trucks-and-infrastructure-515eb0a55934
 - [CTF](https://medium.com/@insanitylife1o/asrg-ctf-writeup-bf34f3b5c01a)
 - [CAN Free course by KVASER](https://www.kvaser.com/can-protocol-tutorial/)
 - [How to Play a CTF](https://www.facebook.com/cybertalentsofficial/videos/4612638012140695/)
@@ -64,3 +65,4 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Car Hacking (A Reading List)](https://www.linkedin.com/pulse/car-hacking-reading-list-hristo-bojinov)
 - [CAN bus and car hacking getting started resources](https://www.reddit.com/r/CarHacking/comments/ltbrzk/can_bus_and_car_hacking_getting_started_resources/)
 - [Introduction to Car Hacking: The CAN Bus](https://www.offsec.com/offsec/introduction-to-car-hacking-the-can-bus/)
+

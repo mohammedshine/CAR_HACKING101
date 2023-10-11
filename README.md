@@ -44,6 +44,7 @@ Standards and How We Exploited It](https://documents.trendmicro.com/assets/A-Vul
 - [Tesla Car Hacked Remotely From Drone via Zero-Click Exploit](https://www.youtube.com/watch?v=krSj81thN0w)
 - [Hacking Automobiles](https://www.youtube.com/playlist?list=PLCwnLq3tOElrdkQy_daR4wr9lJCt8c_C6)
 - [Fuzzing CAN / CAN FD ECU's and Network using Vehicle Spy](https://www.youtube.com/watch?v=_RB4XyfC2aI&ab_channel=IntrepidControlSystems)
+- [Introduction to Defensics](http://www.gcomtw.com/mailshot/Synopsys/1612%20News/FY16%20SIG%20DS%20Letter%20Defensics-1.2.pdf)
 - [Honda Civic Hack POC](https://github.com/nonamecoder/CVE-2022-27254)
 - [Rolling PWN](https://rollingpwn.github.io/rolling-pwn/)
 - [Tesla Infortainment](https://twitter.com/samwcyo/status/1529937259067326470)

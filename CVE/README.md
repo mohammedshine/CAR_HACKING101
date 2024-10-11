@@ -39,7 +39,7 @@ Please ensure that all entries follow the same format and provide accurate infor
 
 - [CVE List](https://cve.mitre.org/)
 - [NIST National Vulnerability Database](https://nvd.nist.gov/)
-- [Automotive Security Research Group](https://www.example.com)
+- [Automotive Security Research Group](https://asrg..io)
 
 ## License
 
